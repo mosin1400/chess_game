@@ -8,8 +8,20 @@ A 3D chess simulator built with Blender and powered by UPBGE (Blender Game Engin
 ---
 
 📸 Preview
-
-![Preview](Preview.png)
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="preview1.png" width="450"><br>
+        <sub><b>🏰 Main Chess Board</b></sub>
+      </td>
+      <td align="center">
+        <img src="preview2.png" width="450"><br>
+        <sub><b>🎮 In-game Camera View</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 ---
 
 ✨ Features
