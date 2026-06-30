@@ -13,11 +13,11 @@ A 3D chess simulator built with Blender and powered by UPBGE (Blender Game Engin
     <tr>
       <td align="center">
         <img src="Preview1.png" width="450"><br>
-        <sub><b>🏰 Main Chess Board</b></sub>
+        <sub><b>🎮 In-game Camera View</b></sub>
       </td>
       <td align="center">
         <img src="Preview2.png" width="450"><br>
-        <sub><b>🎮 In-game Camera View</b></sub>
+        <sub><b>🎮 AI </b></sub>
       </td>
     </tr>
   </table>
