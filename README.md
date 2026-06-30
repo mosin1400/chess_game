@@ -9,8 +9,7 @@ A 3D chess simulator built with Blender and powered by UPBGE (Blender Game Engin
 
 📸 Preview
 
-«(Add screenshots or gameplay GIFs here)»
-
+![Preview](Preview.png)
 ---
 
 ✨ Features
@@ -65,7 +64,7 @@ Chess-Simulator/
 
 - [x] Create the chess board
 - [x] Model chess pieces
-- [-] Camera movement
+- [ ] Camera movement (bog)
 - [ ] Piece selection
 - [ ] Legal move validation
 - [ ] Check & Checkmate detection
